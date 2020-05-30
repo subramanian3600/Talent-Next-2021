@@ -1,10 +1,12 @@
 # Talent-Next-2021
 Wipro Talent Next 2021
-
-#Programs_for_practice
+## Programs for practice
+### Language basics
+1. Write a Program that accepts two Strings as command line arguments and generate the output in a specific way as given below.
+- If the two command line arguments are Wipro and Bangalore then the output generated should be Wipro Technologies Bangalore.
 ```
-Lang basics
+output:
+      Wipro Technologies Bangalore.
 ```
-
 
 
